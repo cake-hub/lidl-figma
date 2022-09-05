@@ -1,4 +1,4 @@
-# CAKE UI Web
+# CAKE UI Fundamental
 
 ## Who we are
 
